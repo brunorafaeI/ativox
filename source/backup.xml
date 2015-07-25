@@ -1,0 +1,1123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Registros>
+<membro>
+<nome></nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.119</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome></nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac>0a003ef62b48</mac> 
+<ip1>192.168.10.66</ip1> 
+<ip2>192.168.50.66</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome></nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.65</ip1> 
+<ip2>192.168.50.65</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Adriano Jorge de Oliveira Almeida</nome>
+<endereco>Pantanal</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.118</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Afonso Guimarães</nome>
+<endereco>3ª Travessa, Conjunto Embrapa</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.128</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Alberto Eli Pinheiro</nome>
+<endereco>Rua Vere. Jose Tupinamba, 739 - Resid. Castan, - Julião</endereco>
+<telefone>8111-4401</telefone>
+<mac></mac> 
+<ip1>192.168.10.93</ip1> 
+<ip2>192.168.50.93</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Almir Callins</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.109</ip1> 
+<ip2>192.168.50.109</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Ana Virginia</nome>
+<endereco>Santana</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.122</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Anderson Pantoja</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac>0a003ef184f8</mac> 
+<ip1>192.168.10.64</ip1> 
+<ip2>192.168.50.64</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>André Luiz de Araújo</nome>
+<endereco>Rua Santos Dumond</endereco>
+<telefone>9167-0330</telefone>
+<mac></mac> 
+<ip1>192.168.10.115</ip1> 
+<ip2>192.168.10.115</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Anilde Virino</nome>
+<endereco>Av. Stephan Houat, 410 - Jardim Marco Zero</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.88</ip1> 
+<ip2>192.168.50.88</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Antônio Pereira da Costa Neto</nome>
+<endereco>Av: Raimundo Alvares da Costa</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.85</ip1> 
+<ip2>192.168.50.85</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Ap - Gilberto Jr</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.71</ip1> 
+<ip2>192.168.50.71</ip2> 
+<equipamento></equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>AP Noroeste</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.28</ip1> 
+<ip2>192.168.50.28</ip2> 
+<equipamento></equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Benedito Almeida</nome>
+<endereco>Pedro Americo, 1385 - Laguinho</endereco>
+<telefone></telefone>
+<mac>0a003ef8c1b1</mac> 
+<ip1>192.168.10.48</ip1> 
+<ip2>192.168.50.48</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Bertoudo de Souza Noleto</nome>
+<endereco>Alameda Maraca, 121, Quadra A - Cabrauzinho</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.113</ip1> 
+<ip2>192.168.10.113</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>BH Master PGJ/PJM</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.44</ip1> 
+<ip2>192.168.50.44</ip2> 
+<equipamento></equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>BH Slave PGJ/PJM</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.45</ip1> 
+<ip2>192.168.50.45</ip2> 
+<equipamento></equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Carla Pena</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.108</ip1> 
+<ip2>192.168.50.108</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Carlos Alberto Miranda Nunes</nome>
+<endereco>Av. Sebastião Lamarão, nº 2285 - Novo Horizonte</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.129</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Carlos Picanço</nome>
+<endereco>Av Fab, nº 1495 - Centro</endereco>
+<telefone></telefone>
+<mac>0a003efea594</mac> 
+<ip1>192.168.10.40</ip1> 
+<ip2>192.168.50.40</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Cel Leonardo - Militar</nome>
+<endereco>Almirante Barroso, nº 1466 - Apt 402 - Centro (Edif.Manrattan)</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.124</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Celso Rafael – DTI</nome>
+<endereco>Rua Santa Catarina, Snta Rita</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.3.202</ip1> 
+<ip2>192.168.50.92</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Cleudo Jobsom</nome>
+<endereco>Conjunto Açaí</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.91</ip1> 
+<ip2>192.168.50.91</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Clovis de Oliveira dos Santos</nome>
+<endereco>Av. Clodóvil Coelho, 1615A, Buritizal</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.80</ip1> 
+<ip2>192.168.50.80</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr Anderson Batista</nome>
+<endereco>Avenida Clodovio Coelho - Trem</endereco>
+<telefone>9914-6482 / 8111-6645</telefone>
+<mac>0a003ef9be72</mac> 
+<ip1>192.168.10.55</ip1> 
+<ip2>192.168.50.55</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr Jair Quintas</nome>
+<endereco>Av: Nações Unidas, 1101 - Jesus de Nazaré</endereco>
+<telefone>8127-2104</telefone>
+<mac>0a003ef1d1fd</mac> 
+<ip1>192.168.10.60</ip1> 
+<ip2>192.168.50.60</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr Marcelo Guimaraes</nome>
+<endereco></endereco>
+<telefone>9142-2240 / 9144-0020</telefone>
+<mac>0a003ef17f9a</mac> 
+<ip1>192.168.10.61</ip1> 
+<ip2>192.168.50.61</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr Pedro Leite</nome>
+<endereco>Condomínio San Marino</endereco>
+<telefone>8114-0471 / 8125-1333</telefone>
+<mac>0a003ef186e8</mac> 
+<ip1>192.168.10.73</ip1> 
+<ip2>192.168.50.73</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Afonso</nome>
+<endereco>Universidade</endereco>
+<telefone>8117-5251</telefone>
+<mac>0a003ed3139a</mac> 
+<ip1>192.168.10.36</ip1> 
+<ip2>192.168.50.36</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Alaor</nome>
+<endereco></endereco>
+<telefone>8111-0002</telefone>
+<mac>0a003ef26c90</mac> 
+<ip1>192.168.10.50</ip1> 
+<ip2>192.168.50.50</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Alcino</nome>
+<endereco></endereco>
+<telefone>9971-2858</telefone>
+<mac>0a003ed61ae4</mac> 
+<ip1>192.168.10.68</ip1> 
+<ip2>192.168.50.68</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Aldeniz</nome>
+<endereco></endereco>
+<telefone>9972-4242 / 9154-9731</telefone>
+<mac>0a003ed61bd5</mac> 
+<ip1>192.168.10.63</ip1> 
+<ip2>192.168.50.63</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Barreto</nome>
+<endereco></endereco>
+<telefone>9126-3035</telefone>
+<mac></mac> 
+<ip1>192.168.10.105</ip1> 
+<ip2>192.168.10.105</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Horacio</nome>
+<endereco>Av Cora de Carvalho n°4220 - Alvorada</endereco>
+<telefone>8804-1143</telefone>
+<mac></mac> 
+<ip1>192.168.10.81</ip1> 
+<ip2>192.168.50.81</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Iaci</nome>
+<endereco>AV: francisco Soares, Jardim Marco Zero</endereco>
+<telefone>8111-0510 / 81322742</telefone>
+<mac>0a003ef1eb98</mac> 
+<ip1>192.168.10.37</ip1> 
+<ip2>192.168.50.37</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Jander</nome>
+<endereco>Jardim Marco Zero</endereco>
+<telefone>8112-8351</telefone>
+<mac>0a003ef2692a</mac> 
+<ip1>192.168.10.38</ip1> 
+<ip2>192.168.50.38</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Jayme</nome>
+<endereco></endereco>
+<telefone>8117-0000</telefone>
+<mac>0a003ef184f7</mac> 
+<ip1>192.168.10.51</ip1> 
+<ip2>192.168.50.51</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Joel Souza das Chagas</nome>
+<endereco>Av Antonio Coelho de Carvalho, 2768, Santa Rita.</endereco>
+<telefone>9126-6255</telefone>
+<mac></mac> 
+<ip1>192.168.10.57</ip1> 
+<ip2>192.168.50.57</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Laercio</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.126</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Lindalva Gomes Jardina</nome>
+<endereco>Rodovia JK, Km 02. Ao lado do Treviso</endereco>
+<telefone>9971-2211</telefone>
+<mac>0a003ed6cc02</mac> 
+<ip1>192.168.10.82</ip1> 
+<ip2>192.168.50.82</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Luiz Marcos</nome>
+<endereco>Zona Norte</endereco>
+<telefone>8111-4000</telefone>
+<mac></mac> 
+<ip1>192.168.10.33</ip1> 
+<ip2>192.168.50.33</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Manoel Brito</nome>
+<endereco>Av: Cora de Carvalho, 3456 - Santa Rita</endereco>
+<telefone>9971-7922</telefone>
+<mac>0a003ef26859</mac> 
+<ip1>192.168.10.77</ip1> 
+<ip2>192.168.50.77</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Marcio Augusto Alves</nome>
+<endereco>Universidade</endereco>
+<telefone>8114-5527</telefone>
+<mac>0a003ef63895</mac> 
+<ip1>192.168.10.69</ip1> 
+<ip2>192.168.50.69</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Marco Antonio</nome>
+<endereco>Av: Duque de Caxias, Nº 1908 - Santa Rita</endereco>
+<telefone>8122-7557</telefone>
+<mac>0a003efbfb71</mac> 
+<ip1>192.168.10.52</ip1> 
+<ip2>192.168.50.52</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Maricelia</nome>
+<endereco> alterado para 192.168.10.86</endereco>
+<telefone>8117-3335</telefone>
+<mac></mac> 
+<ip1>192.168.10.67</ip1> 
+<ip2>192.168.50.67</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Milton Jr</nome>
+<endereco>Rodovia JK, Km 02. Próximo ao Treviso</endereco>
+<telefone>9971-6696</telefone>
+<mac>0a003ef63873</mac> 
+<ip1>192.168.10.54</ip1> 
+<ip2>192.168.50.54</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Paulo Celso</nome>
+<endereco>Ramal da AMPAP</endereco>
+<telefone>8112-6609</telefone>
+<mac></mac> 
+<ip1>192.168.10.99</ip1> 
+<ip2>192.168.50.99</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Pedrosa</nome>
+<endereco>AV: Francisco Soares, Zerão, Atras do Sambodromo</endereco>
+<telefone>9971-3188</telefone>
+<mac></mac> 
+<ip1>192.168.10.56</ip1> 
+<ip2>192.168.50.56</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Ricardo Ferreira</nome>
+<endereco>AV CORA DE CARVALHO 4520 - SANTA RITA</endereco>
+<telefone>8866-1700 / 9971-0900</telefone>
+<mac>0a003efd2e89</mac> 
+<ip1>192.168.10.53</ip1> 
+<ip2>192.168.50.53</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Vinicius</nome>
+<endereco>Av Naçoes Unidas, 739, bloco, ap 503</endereco>
+<telefone>8114-3232 / 8803-0569</telefone>
+<mac>0a003ed618b2</mac> 
+<ip1>192.168.10.70</ip1> 
+<ip2>192.168.50.70</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dr. Webber</nome>
+<endereco></endereco>
+<telefone>8122-0794 / 9971-5294</telefone>
+<mac></mac> 
+<ip1>192.168.10.89</ip1> 
+<ip2>192.168.50.89</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dra Estela</nome>
+<endereco>Residencial San Marino</endereco>
+<telefone>9971-2415</telefone>
+<mac>0a003ef2781b</mac> 
+<ip1>192.168.10.59</ip1> 
+<ip2>192.168.50.59</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dra Maricelia</nome>
+<endereco></endereco>
+<telefone>8117-3335</telefone>
+<mac></mac> 
+<ip1>192.168.10.86</ip1> 
+<ip2>192.168.50.86</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dra. Judith</nome>
+<endereco>Rua Marcelo Candia, 1392 - Santa Rita</endereco>
+<telefone>8117-2567</telefone>
+<mac></mac> 
+<ip1>192.168.10.47</ip1> 
+<ip2>192.168.50.47</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dra. Rosemary</nome>
+<endereco>Av Fab, nº 3091 - Centro, entre Paraná e Stª Catarina</endereco>
+<telefone>8117-2002</telefone>
+<mac></mac> 
+<ip1>192.168.10.34</ip1> 
+<ip2>192.168.50.34</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Dra. Socorro Pelaes</nome>
+<endereco>Conjunto do Embrapa</endereco>
+<telefone>9112-1440</telefone>
+<mac></mac> 
+<ip1>192.168.10.90</ip1> 
+<ip2>192.168.50.90</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Eder Quintas</nome>
+<endereco>Conjunto do Barcelos</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.32</ip1> 
+<ip2>192.168.50.32</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Eldete</nome>
+<endereco>3º BIS - Av. Cora de Carvalho 4260, em frente a Macontel</endereco>
+<telefone>9112-8335</telefone>
+<mac></mac> 
+<ip1>192.168.10.120</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Eliana Leitão</nome>
+<endereco>Av. Lua, 1257 - Jardim Marco Zero</endereco>
+<telefone></telefone>
+<mac>0a003ef189a4</mac> 
+<ip1>192.168.10.49</ip1> 
+<ip2>192.168.50.49</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Elionai</nome>
+<endereco>Av dos Tembes, nº 67 - Beirol</endereco>
+<telefone></telefone>
+<mac>0a003efb29eb</mac> 
+<ip1>192.168.10.39</ip1> 
+<ip2>192.168.50.39</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Ernesto Gomes Pereira</nome>
+<endereco>Av. dos Tupiniquins, 1078, buritizal, Macapá.</endereco>
+<telefone></telefone>
+<mac>0a003ef81070</mac> 
+<ip1>192.168.10.74</ip1> 
+<ip2>192.168.50.74</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Fabia Regina Rocha Martins</nome>
+<endereco>Rua Jose Luiz Barata, n 412-A, Jardim Marco Zero</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.133</ip1> 
+<ip2>192.168.50.133</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Gilberto Almeida</nome>
+<endereco>Av: Goistacases, 865 - Buritizal</endereco>
+<telefone></telefone>
+<mac>0a003ef1cf1a</mac> 
+<ip1>192.168.10.29</ip1> 
+<ip2>192.168.50.29</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Gilberto Junior</nome>
+<endereco>Santana</endereco>
+<telefone></telefone>
+<mac>0a003ef26f27</mac> 
+<ip1>192.168.10.72</ip1> 
+<ip2>192.168.50.72</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Gilvan Barroso Pereira</nome>
+<endereco>Av Raimundo Peres Nunes de Ataide, 323 - Zerão </endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.121</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Gisa Veiga Chaves</nome>
+<endereco>Rua Parana 1295, ap 401 Edificio Turmalina em a EletroNorte</endereco>
+<telefone>9126-2028</telefone>
+<mac>0a003ed6184c</mac> 
+<ip1>192.168.10.62</ip1> 
+<ip2>192.168.50.62</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Glória Helena</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.127</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Helenize Corrêa de Moraes</nome>
+<endereco>Av. Almirante Barroso. Apto C, N 1336, Santa Rita. Entre Prof. Tostes e Hildemar Maia</endereco>
+<telefone></telefone>
+<mac>0a003ed6c7d0</mac> 
+<ip1>192.168.10.76</ip1> 
+<ip2>192.168.50.76</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Idelmir Torres</nome>
+<endereco>Araxá</endereco>
+<telefone></telefone>
+<mac>0a003ef27819</mac> 
+<ip1>192.168.10.41</ip1> 
+<ip2>192.168.50.41</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Irlan</nome>
+<endereco>13ª Av dos Gongós</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.125</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Ivanira Guimaraes Fernandes</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.104</ip1> 
+<ip2>192.168.10.104</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Jaciara</nome>
+<endereco>Av: Mãe Luzia, 340 - Laguinho</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.95</ip1> 
+<ip2>192.168.50.95</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Jardel Batista Neri</nome>
+<endereco>Rua Amadeu Gama, 1442 - Bairro Universidade</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.106</ip1> 
+<ip2>192.168.10.106</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Jayme</nome>
+<endereco>Av feliciano Coelho</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.130</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>João Batista </nome>
+<endereco>Av: Jose Moacir Banhos de Araujo, 1273 - Congos</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.96</ip1> 
+<ip2>192.168.50.96</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Joao de Deus Ramos de Souza</nome>
+<endereco>Rua Manoel Eudoxio Pereira, 2182 AP B, Bairro Buritizal </endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.132</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>João Paulo de Oliveira Furlan</nome>
+<endereco>Ramal da Ampap</endereco>
+<telefone>9158-1510</telefone>
+<mac></mac> 
+<ip1>192.168.10.114</ip1> 
+<ip2>192.168.10.114</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Joel DAJ</nome>
+<endereco>Av dos Tupiniquis - Buritizal</endereco>
+<telefone></telefone>
+<mac>0a003ed67c72</mac> 
+<ip1>192.168.10.35</ip1> 
+<ip2>192.168.50.35</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Joelmo Batista Pinto</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.131</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Johanes Sampaio Chagas</nome>
+<endereco>Rua Marabaixo, 2161 - Jardim Felicidade</endereco>
+<telefone></telefone>
+<mac>0a003ef189ad</mac> 
+<ip1>192.168.10.111</ip1> 
+<ip2>192.168.10.111</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Jorge Luiz Canezin</nome>
+<endereco>Residencial San Marino</endereco>
+<telefone>9972-1617</telefone>
+<mac>0a003ef62bea</mac> 
+<ip1>192.168.10.42</ip1> 
+<ip2>192.168.50.42</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Jose Alberto Cruz Valles</nome>
+<endereco>Rua Porto Velho, 668 - Infraero II</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.97</ip1> 
+<ip2>192.168.50.97</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>José Alberto Guedes Figueira</nome>
+<endereco>Loteamento Açaí, Nº419 - Infraero</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.134</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>José Carlos Cearence</nome>
+<endereco>Av. Mendonça Furtado 1222</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.103</ip1> 
+<ip2>192.168.10.103</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Keila</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.79</ip1> 
+<ip2>192.168.50.79</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Leonice Santana</nome>
+<endereco>Santana</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.84</ip1> 
+<ip2>192.168.50.84</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Lindomar Góes Ferreira</nome>
+<endereco>Rua Plutão, 712 - Jardim Marco Zero</endereco>
+<telefone></telefone>
+<mac>0a003ef261d1</mac> 
+<ip1>192.168.10.26</ip1> 
+<ip2>192.168.50.26</ip2> 
+<equipamento>CMM</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Luiz Eduardo</nome>
+<endereco>Rua Leopoldo Machado / Pedro Lazarino</endereco>
+<telefone></telefone>
+<mac>0a003ef268d4</mac> 
+<ip1>192.168.10.43</ip1> 
+<ip2>192.168.50.43</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Marcelo Magalhães Pantoja</nome>
+<endereco>Av José Jucar, 147 - Pacoval</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.123</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Marceu Farias</nome>
+<endereco>Condomínio da Fazeninha</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.83</ip1> 
+<ip2>192.168.50.83</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Marco Aurelio</nome>
+<endereco>Av Segunda 1464 - Marabaixo</endereco>
+<telefone></telefone>
+<mac>0a003ef1de58</mac> 
+<ip1>192.168.10.30</ip1> 
+<ip2>192.168.50.30</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Marco Valério Vale dos Santos</nome>
+<endereco>Av Luiza Damasceno Soares, 186 - Jardim Marco Zero</endereco>
+<telefone>8121-7793</telefone>
+<mac></mac> 
+<ip1>192.168.10.117</ip1> 
+<ip2>192.168.10.117</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Marinete</nome>
+<endereco>Av. Castro Alves, 2984, Paraiso, Santana.</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.75</ip1> 
+<ip2>192.168.50.75</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Marlindo Martins Maciel</nome>
+<endereco>Jardim Felicidade II</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.107</ip1> 
+<ip2>192.168.10.107</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Michela Ronise Nunes dos Santos Brito</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.137</ip1> 
+<ip2>192.168.50.137</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Nalira Januaria Silva de Souza</nome>
+<endereco>Av Jose Moacir Banhos de Araujo, 1273 - Congós</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.100</ip1> 
+<ip2>192.168.50.100</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Nancy Soares Maciel Nunes</nome>
+<endereco>Av: Ana Nery, 681 - Laguinho - </endereco>
+<telefone>8801 - 3727</telefone>
+<mac></mac> 
+<ip1>192.168.10.135</ip1> 
+<ip2></ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Pedro Baia Madureira</nome>
+<endereco>Rua Eurico dos Santos Barbosa, nº 1168 - Zerão</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.116</ip1> 
+<ip2>192.168.10.116</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Roberto da Silva Alvares</nome>
+<endereco>Av: Padre Júlio, Predio ao lado da center Kenedy Apt 201</endereco>
+<telefone>9112-1710</telefone>
+<mac></mac> 
+<ip1>192.168.10.110</ip1> 
+<ip2>192.168.50.110</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Promotor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Rodinei Paixão</nome>
+<endereco>Renascer</endereco>
+<telefone></telefone>
+<mac>0a003ef18682</mac> 
+<ip1>192.168.10.27</ip1> 
+<ip2>192.168.50.27</ip2> 
+<equipamento>CMM</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Ronaldo </nome>
+<endereco>Av: Artur Rock, 375 - Congós</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.87</ip1> 
+<ip2>192.168.50.87</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Ronildo Cristino de Lima</nome>
+<endereco>Raimundo Alvares da Costa</endereco>
+<telefone></telefone>
+<mac>0a003ed67c59</mac> 
+<ip1>192.168.10.102</ip1> 
+<ip2>192.168.10.102</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Sergio Ferreira de Meneses</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.101</ip1> 
+<ip2>192.168.50.101</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Sevidor Jesus Obra</nome>
+<endereco>Santa Rita</endereco>
+<telefone></telefone>
+<mac>0a003ed3091f</mac> 
+<ip1>192.168.10.46</ip1> 
+<ip2>192.168.50.46</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Sevidor Marcele Figueredo</nome>
+<endereco>Av Benhur Correa Alves, 1404 - Congós</endereco>
+<telefone></telefone>
+<mac>0a003ef26cd0</mac> 
+<ip1>192.168.10.112</ip1> 
+<ip2>192.168.10.112</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Silvéria</nome>
+<endereco>Rua Vereador Orlando Pinto, 2219 - Santa Rita</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.98</ip1> 
+<ip2>192.168.50.98</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Silvia Karla Winker e Silva</nome>
+<endereco>Av. dos Tupiniquins, n 735 – Buritizal</endereco>
+<telefone></telefone>
+<mac>0a003ed6198f</mac> 
+<ip1>192.168.10.31</ip1> 
+<ip2>192.168.50.31</ip2> 
+<equipamento>AP Noroeste</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Tarabey Gomes Brito</nome>
+<endereco></endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.136</ip1> 
+<ip2>192.168.50.136</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Telma Coelho de Freitas</nome>
+<endereco>Travessa 3, nº 103, Conj. EMBRAPA, Universidade</endereco>
+<telefone></telefone>
+<mac>0a003efbfb09</mac> 
+<ip1>192.168.10.78</ip1> 
+<ip2>192.168.50.78</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Veronica Santos</nome>
+<endereco>Av: 25 de Dezembro, 443 - Cidade Nova</endereco>
+<telefone></telefone>
+<mac></mac> 
+<ip1>192.168.10.94</ip1> 
+<ip2>192.168.50.94</ip2> 
+<equipamento>Ap - Gilberto Jr</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+<membro>
+<nome>Willian tavares</nome>
+<endereco>Rua Aurora Boreau, 104, Jardim Marco Zero</endereco>
+<telefone></telefone>
+<mac>0a003ef8101a</mac> 
+<ip1>192.168.10.58</ip1> 
+<ip2>192.168.50.58</ip2> 
+<equipamento>BH Slave PGJ/PJM</equipamento> 
+<tipodeusuario>Servidor</tipodeusuario> 
+</membro>
+</Registros>

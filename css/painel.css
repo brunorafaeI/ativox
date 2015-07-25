@@ -1,0 +1,93 @@
+
+/* -=-=-=- ABA DO PAINEL USER -=-=-=-=-*/
+#config_login {position:absolute; top:60px; right:22px; height:136px; padding:4px; background-color:#e9e9e9; z-index:999; border-radius:4px; border:3px solid #fff; box-shadow: -1px 1px 6px #999; font-size:90%;}
+#config_login td {padding:2px; width:auto;}
+#config_login img {margin-left:-15px;}
+#config_login a {color:#327eae;}
+#ponta {position:absolute; right:42px; top:53px; z-index:9999;}
+
+
+.usuario { position:absolute; right:85px; top:25px; font:90% Arial, Helvetica, sans-serif; font-weight:bold; color:#fff; height:19px; padding-top:2px; z-index:9999;}
+#icon_logado {position:absolute; right:40px; top:12px; cursor:pointer;}
+#icon_seta {position:absolute; right:20px; top:30px; cursor:pointer;}
+
+/* -=-=-=- COLUNA DA ESQUERDA -=-=-=-=-*/
+#col_left {position:absolute; left:15px; top:0px; bottom:20px; width:210px; height:auto; padding:30px 5px; border-right:1px solid #d3d3d3;}
+
+/* -=-=-=- MENU VERTICAL DO PAINEL -=-=-=-=-*/
+#menu {position:fixed; margin-top:-30px; width:210px;}
+#menu>ul>li {margin:30px 5px;}
+#images_menu {float:left; width:50px;}
+#menu ul li a{text-align:left; color:#808080; margin-left:10px;}
+#menu ul li a:hover {color:#327eae;}
+#images_menu img {float:left; margin-top:20px; margin-bottom:30px; cursor:pointer;}
+#menu span {font-size:22px; cursor:pointer;}
+#menu>ul>li>span:hover {color:#A00;}
+#menu table span {float:right; margin-top:15px; font-size:18px;}
+
+
+
+
+/* -=-=-=-=-=- FORMATAÇÃO DO TITULO PRINCIPAL -=-=-=-=-==- */
+
+#title_m {background:url(../images/noise.png) #e9e9e9; color:#000; border:1px solid #d9d9d9; border-bottom:none; border-radius:3px; font-size:120%; text-align:left; padding:4px 60px;}
+
+/* -=-=-=-=- CONTEUDO DO MEIO DO PAINEL -=-=-=-=-*/
+#conteudo_m {padding-bottom:2%; text-align:left; margin-left:300px; margin-right:24px; margin-bottom:5%; background-color:#fff; margin-top:34px; border:1px solid #d9d9d9; border-top:none; border-radius:6px;}
+
+
+/* -=-=-=-=--=-=-=-=-=-=-=-=- FORMATAÇÃO DAS MENSAGENS =-=-=-=-=-=-=-=-=-=- */
+#alerta2 {position:absolute; top:10%; width:30%; right:35%; left:35%; text-align:center;}
+#alerta {position:absolute; top:5px; right:1.5%; width:73.5%; text-align:left; }
+.yes {
+    background: url(../images/icon-ok.png) no-repeat scroll 5px 4px #D4FDC9;
+    border: 1px solid #93E271;
+    margin: 0 0 5px;
+    padding: 5px 3%;
+	font: 90% "verdana";
+	
+}
+
+
+.no {
+    background: url(../images/icon-atencao.png) no-repeat scroll 5px 4px #FFFBB6;
+    border: 1px solid #EBE499;
+    margin: 0 0 5px;
+    padding: 5px 3%;
+	font: 90% "verdana";
+	
+	
+	
+}
+
+
+#mover {width:99%; margin:0 auto; border-bottom:1px solid #a0a0a0; border-radius:3px; box-shadow:2px 2px 15px 2px #f0f0f0 inset; }
+#mover .title_windows {float:left; margin-top:6px; margin-left:20px;}
+#mover:hover {cursor:move;}
+#close_move {float:right;}
+#close_move:hover {cursor:pointer;}
+
+#painel_editar {position:absolute;
+ margin-top:-25%; padding:2px 0; background-color:#fff; margin-left:15%; border-radius:6px; box-shadow:-2px 4px 6px 2px #999; -webkit-box-shadow:-2px 4px 6px 2px #999; /* Safari e Chrome */
+}
+#painel_editar #form_user { display:block; font:100% Arial, Helvetica, sans-serif; }
+#painel_editar #form_user label {color:#333;} 
+#painel_editar a {text-decoration:none;}
+#painel_editar #form_user td { padding:5px 5px 5px 15px; }
+#painel_editar #form_user input[type=text]{width:260px;}
+
+/* -=-=-=-=--=-=-=-=-=-=-=-=- FORMATAÇÃO DO RESULTADO DE PAGINAS =-=-=-=-=-=-=-=-=-=- */
+
+#paginacao2 {font-size:90%;  margin:10px 0 0 34px;}
+#paginacao2 a {background-color:#f0f0f0; padding:2px 4px; border:1px solid #d3d3d3; border-radius:3px;}
+#paginacao2 a:hover {background-color:#f9f9f9;}
+#paginacao2 select {margin-left:15px;}
+
+
+#paginacao {font-size:90%;  margin:5px 0 0 55px;}
+#paginacao img {padding:0 4px;}
+#paginacao select {margin-left:15px;}
+
+
+
+
